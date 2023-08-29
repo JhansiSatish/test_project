@@ -23,7 +23,7 @@
                 </div>
                 <div class="modal-body">
                     <div class="form-group">
-                        <label for="completename">Name</label>
+                        <label for="completename">Name1</label>
                         <input type="email" class="form-control" id="completename" placeholder="Enter Your Name">
                     </div>
                     <div class="form-group">
